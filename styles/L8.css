@@ -1,0 +1,129 @@
+.name {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.email{
+    display: block;
+}
+
+.survey-content {
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+}
+
+.google-logo {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+
+.google-search {
+    display: block;
+    margin: 0 auto;
+    margin-top: 0px;
+    font-size: 18px;
+    border: none;
+    border-radius: 50px;
+    border-color: gray;
+    width: 600px;
+    height: 50px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .3);
+    padding-left: 15px;
+    padding-right: 10px;
+    margin-bottom: 50px;
+}
+
+.first-name, .last-name {
+    font-size: 18px;
+    border-radius: 8px;
+    border-width: .5px;
+    border-color: gray;
+    width: 125px;
+    height: 40px;
+    padding-left: 10px;
+    margin-top: 50px;
+    margin-bottom: 12px;
+}
+
+.email-2 {
+    display: block;
+    font-size: 18px;
+    border-radius: 8px;
+    border-width: .5px;
+    border-color: gray;
+    width: 270px;
+    height: 40px;
+    padding-left: 10px;
+    margin-bottom: 12px;
+}
+
+.signup-button {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(47, 98, 207);
+    border: none;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left:  108px;
+    padding-right: 108px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+
+.uber-title {
+    font-size: 42px;
+    margin-bottom: 25px;
+}
+
+.location {
+    display: block;
+    font-size: 18px;
+    background-color: rgb(241, 241, 241);
+    color: black;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 90px;
+    margin-bottom: 10px;
+}
+
+.destination {
+    display: block;
+    font-size: 18px;
+    background-color: rgb(241, 241, 241);
+    color: black;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 90px;
+    margin-bottom: 35px;
+}
+
+.uber-button-1 {
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.uber-button-2 {
+    background-color: rgb(241, 241, 241);
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border: none;
+    margin-left: 10px;
+}
